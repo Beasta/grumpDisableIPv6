@@ -1,0 +1,10 @@
+{
+  "defaultCommand": "disableIPv6",
+  "commands": {
+    "disableIPv6": {
+      "scriptType": "bash",
+      "scriptPath": "disableIPv6.sh",
+      "vars": {}
+    }
+  }
+}
